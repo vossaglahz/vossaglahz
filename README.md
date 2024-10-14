@@ -12,70 +12,74 @@ Fullstack Developer
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="jquery" />
-      <br>React
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="jquery" />
+      <br>HTML
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="jquery" />
-      <br>React
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="jquery" />
+      <br>CSS
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="jquery" />
-      <br>React
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="jquery" />
+      <br>SASS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="48" height="48" />
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" />
       <br>TypeScript
     </td>
        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
-      <br>Github
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="GitHub" />
+      <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>Mysql
+        <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="mysql" />
+      <br>Jest
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="sass" />
-      <br>Sass
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="sass" />
+      <br>Figma
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="sass" />
+      <br>Postman
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Git" />
+      <br>React
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="GitLab" />
       <br>Vue
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="HTML" />
+      <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="css" />
+      <br>MaterialUI
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="express" />
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="nodejs" />
       <br>Express
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
-      <br>Nodejs
-    </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="nodejs" />
-      <br>Nodejs
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="nodejs" />
+      <br>Postgres
     </td>
             <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="nodejs" />
-      <br>Nodejs
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="nodejs" />
+      <br>MySQL
     </td>
                 <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="nodejs" />
@@ -83,14 +87,6 @@ Fullstack Developer
     </td>
                     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="nodejs" />
-      <br>Nodejs
-    </td>
-                        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="nodejs" />
-      <br>Nodejs
-    </td>
-                            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="nodejs" />
       <br>Nodejs
     </td>
     
