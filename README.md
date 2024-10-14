@@ -30,7 +30,7 @@ Fullstack Developer
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="ts"/>
-      <br>TypeScript
+      <br>Typescript
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
@@ -76,7 +76,7 @@ Fullstack Developer
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
-      <br>Express
+      <br>ExpressJS
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
