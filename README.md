@@ -32,7 +32,7 @@ Fullstack Developer
       <br>TypeScript
     </td>
        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="GitHub" />
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="GitHub" />
       <br>Git
     </td>
     <td align="center" width="96">
@@ -80,18 +80,7 @@ Fullstack Developer
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="nodejs" />
       <br>MySQL
-    </td>
-                <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="nodejs" />
-      <br>Nodejs
-    </td>
-                    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="nodejs" />
-      <br>Nodejs
-    </td>
-    
-    
-    
+    </td> 
   </tr>
 </table>
 
