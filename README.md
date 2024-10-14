@@ -4,7 +4,7 @@
 Fullstack Developer
 --------------------
 
-- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vossaglahz)
+- :mailbox: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vossaglahz)
 - ☎️ +7 700 977 10 71
 
 ### Hard skills
