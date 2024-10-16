@@ -55,10 +55,6 @@ Fullstack Developer
       <br>React
     </td>
     <td align="center"  width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" width="48" height="48" alt="socketio" />
-      <br>Socket.io
-    </td>
-    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" />
       <br>Redux
     </td>
@@ -77,6 +73,10 @@ Fullstack Developer
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
       <br>ExpressJS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" width="48" height="48" alt="socketio" />
+      <br>Socket.io
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
