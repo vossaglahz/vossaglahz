@@ -26,11 +26,11 @@ Fullstack Developer
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js"/>
-      <br>Javascript
+      <br>JavaScript
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="ts"/>
-      <br>Typescript
+      <br>TypeScript
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
@@ -68,11 +68,11 @@ Fullstack Developer
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
-      <br>NodeJS
+      <br>Node.js
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
-      <br>ExpressJS
+      <br>Express.js
     </td>
     <td align="center"  width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" width="48" height="48" alt="socketio" />
