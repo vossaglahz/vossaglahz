@@ -33,20 +33,20 @@ Fullstack Developer
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
-      <br>Git
+        <img src="https://skillicons.dev/icons?i=golang" width="48" height="48" alt="golang"/>
+      <br>Golang
+    </td>
+      <td align="center"  width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" width="48" height="48" alt="socketio" />
+      <br>Socket.io
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="jest" />
       <br>Jest
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
-      <br>Postman
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
+      <br>Git
     </td>
   </tr>
   <tr>
@@ -59,8 +59,8 @@ Fullstack Developer
       <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="materialui" />
-      <br>MaterialUI
+        <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="next" />
+      <br>Next.js
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
@@ -75,8 +75,8 @@ Fullstack Developer
       <br>Express.js
     </td>
     <td align="center"  width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" width="48" height="48" alt="socketio" />
-      <br>Socket.io
+        <img src="https://skillicons.dev/icons?i=nest" width="48" height="48" alt="nest" />
+      <br>Nest.js
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
