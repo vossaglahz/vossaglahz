@@ -4,7 +4,7 @@
 Fullstack Developer
 --------------------
 
-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vossaglahz)
+- [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mereyzhalgassov)
 - 📫 mereyzhalgassov@gmail.com 
 - ☎️ +7 700 977 10 71
 
