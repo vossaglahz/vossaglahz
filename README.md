@@ -5,7 +5,7 @@ Fullstack Developer
 --------------------
 
 - [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vossaglahz)
-- 📫 crowtwentyohtwo@gmail.com 
+- 📫 mereyzhalgassov@gmail.com 
 - ☎️ +7 700 977 10 71
 
 ### Hard skills
