@@ -1,7 +1,7 @@
 ## Hi there, my name is Merey! 👋
 --------------------
 
-Software Engineer
+Fullstack Developer
 --------------------
 
 - [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mereyzhalgassov)
