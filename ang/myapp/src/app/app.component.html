@@ -1,0 +1,9 @@
+ <app-child [childColor]="color" name="Test" ></app-child>
+<button [style.color]="color" (click)="changeColor('red')">Button red</button>
+ <button [style.color]="color" on-click="changeColor('yellow')" >Button yellow</button>
+ <p [style.color]="color" (click)="this.color = 'yellow'" >Paragraph</p>
+ <input
+ type="text"
+ (input)="checkCurrentValue($event)"
+ (keydown.shift.control.enter)="this.color = 'pink'"
+ />
