@@ -36,10 +36,10 @@ Software Engineer
         <img src="https://skillicons.dev/icons?i=golang" width="48" height="48" alt="golang"/>
       <br>Golang
     </td>
-      <td align="center"  width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" width="48" height="48" alt="socketio" />
-      <br>Socket.io
-    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
+      <br>Docker
+    </td> 
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="jest" />
       <br>Jest
@@ -50,6 +50,14 @@ Software Engineer
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="docker" />
+      <br>Angular
+    </td> 
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=reactivex" width="48" height="48" alt="docker" />
+      <br>RxJS
+    </td> 
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
       <br>React
@@ -70,10 +78,6 @@ Software Engineer
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>Node.js
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
-      <br>Express.js
-    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=nest" width="48" height="48" alt="nest" />
       <br>Nest.js
@@ -82,9 +86,5 @@ Software Engineer
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
-      <br>Docker
-    </td> 
   </tr>
 </table>
